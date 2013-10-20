@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="/Users/nileshagrawal/Desktop/Hackathon Project/google-api-java-client-1.17.0-rc.zip"/>
+	<classpathentry kind="lib" path="/Users/nileshagrawal/Desktop/Hackathon Project/google-api-services-calendar-v3-rev66-java-1.17.0-rc.zip"/>
+	<classpathentry kind="lib" path="/Users/nileshagrawal/Desktop/Hackathon Project/gdata-samples.java-1.47.1.zip"/>
+	<classpathentry kind="lib" path="/Users/nileshagrawal/Desktop/Hackathon Project/gdata-src.java-1.47.1.zip"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
